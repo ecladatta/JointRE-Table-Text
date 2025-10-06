@@ -1,0 +1,18 @@
+########################### Zero shots ############################### Llama3
+
+Exact matching: {'precision': 0.11205976520811099, 'recall': 0.17781541066892464, 'f1': 0.13747954173486088}
+Partial matching (head+tail): {'precision': 0.3489861259338314, 'recall': 0.5537679932260796, 'f1': 0.42815057283142394}
+Partial matching (relation + 1 entity): {'precision': 0.29562433297758806, 'recall': 0.4690939881456393, 'f1': 0.3626841243862521}
+
+####################### Zero shot ############################# LLama4
+
+{'Exact matching': {'precision': 0.16375252185608608, 'recall': 0.315006468305304, 'f1': 0.2154867256637168}, 'Partial matching (head+tail)': {'precision': 0.2609280430396772, 'recall': 0.5019404915912031, 'f1': 0.3433628318584071}, 'Partial matching (relation + 1 entity)': {'precision': 0.37121721587088097, 'recall': 0.7141009055627425, 'f1': 0.4884955752212388}}
+
+
+
+########################## Few-shot ################################# DeepSeek
+
+{'Exact matching': {'precision': 0.2105543710021322, 'recall': 0.710431654676259, 'f1': 0.3248355263157895}, 
+'Partial matching (head+tail)': {'precision': 0.2601279317697228, 'recall': 0.8776978417266187, 'f1': 0.40131578947368424}, 
+'Partial matching (relation + 1 entity)': {'precision': 0.4957356076759062, 'recall': 0.92726618705035972, 'f1': 0.6460692718987837
+}}
