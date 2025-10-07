@@ -1,0 +1,45 @@
+cd /projects/melodi/mettaleb/FinGPT/fingpt/FinGPT_Benchmark/
+export CUDA_HOME=/usr/local/cuda
+export HF_HOME=/projects/melodi/mettaleb/huggingface_cache
+export TOKENIZERS_PARALLELISM=false
+export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+python train_lora.py --run_name headline-chatglm2-linear-paragraphe --base_model DeepSeek-R1-Distill-Llama-8B --dataset finred --max_length 512 --batch_size 2 --learning_rate 1e-4 --num_epochs 8 --from_remote True
+
+python train_lora.py --run_name headline-TextMine-fr_exact --base_model llama31Inst8B --dataset finred --max_length 1000 --batch_size 4 --learning_rate 1e-4 --num_epochs 8 --from_remote True
+
+
+python /projects/melodi/mettaleb/FinGPT/fingpt/FinGPT_Benchmark/benchmarks/benchmarks.py --dataset re --base_model DeepSeek-R1-Distill-Llama-8B --peft_model /projects/melodi/mettaleb/FinGPT/fingpt/FinGPT_Benchmark/finetuned_models/headline-jointly-extraction_deepseek_202504281208 --batch_size 8 --max_length 256 --from_remote True
+
+python train_lora.py --run_name headline-mt0-xl-CORE --base_model mt0-xl --dataset finred --max_length 512 --batch_size 2 --learning_rate 1e-4 --num_epochs 8
+
+/projets/melodi/mettaleb/ECLADATA/FinGPT/fingpt/FinGPT_Benchmark
+
+
+
+python /projects/melodi/mettaleb/FinGPT/fingpt/FinGPT_Benchmark/benchmarks/benchmarks.py --dataset re --base_model mt0-xl --peft_model /projects/melodi/mettaleb/FinGPT/fingpt/FinGPT_Benchmark/finetuned_models/headline-mt0-xl-CORE_V2_202503022343 --batch_size 4 --max_length 512 
+
+
+
+export PATH="/projects/melodi/mettaleb/lfs/git-lfs-3.4.0:$PATH"
+
+
+Savoir espace disponible dans home : 
+    - ls -lh ~/.cache
+    - du -h --max-depth=1 ~
+    - rm -rf ~/.cache/*  (Effacer le contenu dans cache)
+
+Liberer espace Mémoire : 
+ - rm -rf ~/.cache/wandb
+ - rm -rf ~/.cache/huggingface/
+ - rm -rf /chemin/vers//projects/melodi/mettaleb/FinGPT/fingpt/FinGPT_Benchmark/
+
+
+
+###############################Finetuning T5 model ###############################################
+transformers : 4.32.0
+peft : 0.5.5
+torch : 2.3.0a0+ebedce2
+
+############################## Molmo 7-b##############################################
+transformers : 4.42.0
+torch : 2.6.0

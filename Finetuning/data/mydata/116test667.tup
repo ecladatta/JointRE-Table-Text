@@ -1,0 +1,153 @@
+Coins ; Coins ’N Things ; product_or_service_of
+silver bullion coins ; Coins ’N Things ; product_or_service_of
+Treace ; Nasdaq ; traded_on
+TMCI ; Nasdaq ; traded_on
+The Bank of Otago Limited ; the London Stock Exchange ; traded_on
+Survios ; University of Southern California's Mixed Reality Lab ; collaboration
+Shasta Ventures ; Survios ; shareholder_of
+Lux Capital ; Survios ; shareholder_of
+Metro-Goldwyn-Mayer ; Survios ; shareholder_of
+Raw Data ; Survios ; product_or_service_of
+Sprint Vector ; Survios ; product_or_service_of
+reality game ; Survios ; product_or_service_of
+software ; Survios ; product_or_service_of
+PJT Capital LP ; The Blackstone Group ; merged_with
+PJT Partners ; the New York Stock Exchange ; traded_on
+PJT Partners ; NYSE ; traded_on
+FX series ; The company ; brand_of
+Daiichi Kosho Beat ; The company ; product_or_service_of
+French Adventure F series of paramotors ; The company ; product_or_service_of
+Mainline Freight ; North-South Railways ; acquired_by
+Mainline Freight ; Candover ; collaboration
+Mainline Freight ; Associated British Ports ; collaboration
+Mainline Freight ; Rail Express Systems ; merged_with
+Tempur-Pedic ; Fagerdala World Foams ; brand_of
+Tempur-Pedic International ; Sealy Corporation ; merged_with
+Tempur-Pedic mattress ; Fagerdala World Foams ; product_or_service_of
+Ingram Content Group ; Graphic Arts Center Publishing Company ; shareholder_of
+Graphic Arts ; Ingram ; subsidiary_of
+Crew Energy Inc. ; the Toronto Stock Exchange ; traded_on
+liquids-rich natural gas ; Crew Energy Inc. ; product_or_service_of
+Jaguar Cars ; Sytner ; acquired_by
+Land Rover ; Sytner ; acquired_by
+the Ixion Motor Group ; Sytner ; acquired_by
+the Ron Stratton Group ; Sytner ; acquired_by
+Jaguar ; Sytner ; brand_of
+Land Rover ; Sytner ; brand_of
+Volvo ; Sytner ; brand_of
+Saab ; Sytner ; brand_of
+Lexus ; Sytner ; brand_of
+Bentley ; Sytner ; brand_of
+Banco Pastor ; Banco Popular ; acquired_by
+Banco Pastor ; Banco Santander ; acquired_by
+Caixa Galicia ; Caixanova ; merged_with
+Caixa Galicia ; Banco Etcheverria ; merged_with
+ Banco Etcheverría ; Caixanova ; merged_with
+Caixa Galicia ; Abanca ; undefined
+Abanca ; Caixanova ; undefined
+Abanca ; Banco Pastor ; undefined
+Brewers Fayre ; Beefeater ; brand_of
+Out and Out ; Beefeater ; brand_of
+Grillbars ; Beefeater ; brand_of
+Group ; the Nairobi Securities Exchange ; traded_on
+Group ; NSE ; traded_on
+Trak Auto ; Sears ; competitor_of
+Trak Auto ; the Pep Boys ; competitor_of
+Trak Auto ; the Dart Group ; subsidiary_of
+TallyGenicom ; Printronix ; acquired_by
+Tally ; Mannesmann ; acquired_by
+TallyGenicom ; DASCOM ; acquired_by
+TallyGenicom ; DASCOM Europe ; brand_of
+Tally ; GENICOM ; merged_with
+Legal & General Ventures ; Tally ; shareholder_of
+serial dot matrix ; Tally ; product_or_service_of
+professional inkjet printers ; Tally ; product_or_service_of
+line printers ; Tally ; product_or_service_of
+Text Control ; Microsoft ; undefined
+TX Text Control Express ; Text Control ; product_or_service_of
+Vea ; Disco ; acquired_by
+Santa Isabel ; Velox Holdings ; acquired_by
+Santa Isabel ; Cencosud ; acquired_by
+Disco ; Carrefour ; competitor_of
+Velox Holdings ; Disco ; shareholder_of
+Thalassa ; Accor ; acquired_by
+GlenAllachie ; The GlenAllachie Distillers Company ; acquired_by
+GlenAllachie ; BenRiach MD Billy Walker ; acquired_by
+GlenAllachie ; Trisha Savage ; acquired_by
+GlenAllachie ; ex-Inver House Distillers MD Graham Stevenson ; acquired_by
+whisky ; the distillery ; product_or_service_of
+Marvel ; the company ; competitor_of
+Marvel ; the company ; competitor_of
+DC ; the company ; competitor_of
+Frontier ; Holly Corporation ; merged_with
+Frontier ; HollyFrontier Corporation ; undefined
+Holly Corporation ; HollyFrontier Corporation ; undefined
+the EnergyFunders Marketplace ; FINRA ; regulated_by
+FireFly Balloons ; Raven Industries ; competitor_of
+FireFly Balloons ; SEMCO ; competitor_of
+FireFly Balloons ; Piccard Balloons ; competitor_of
+hot air balloon ; FireFly Balloons ; product_or_service_of
+hot air balloon ; The Balloon Works ; product_or_service_of
+hot air balloon ; TBW ; product_or_service_of
+The Local Radio Company ; UKRD ; acquired_by
+Alpha Radio ; Minster Northallerton ; merged_with
+Minster Northallerton ; Durham FM ; merged_with
+Durham FM ; Alpha Radio ; merged_with
+Star Radio North East ; UKRD ; subsidiary_of
+Alpha Radio ; Star Radio North East ; undefined
+Minster Northallerton ; Star Radio North East ; undefined
+Durham FM ; Star Radio North East ; undefined
+ZPG Ltd. ; Silver Lake Partners ; acquired_by
+Zoopla ; Houseful ; brand_of
+Hometrack ; Houseful ; brand_of
+Jupix ; Houseful ; brand_of
+Calcasa ; Houseful ; brand_of
+Primelocation ; Houseful ; brand_of
+Yourkeys ; Houseful ; brand_of
+Mojo ; Houseful ; brand_of
+USwitch ; ZPG Ltd. ; brand_of
+Houseful ; ZPG Ltd. ; subsidiary_of
+ZPG Ltd ; the London Stock Exchange ; traded_on
+Alto ; Houseful ; brand_of
+Money.co.uk ; ZPG Ltd. ; brand_of
+HD Ferries ; Emeraude Lines ; competitor_of
+HD Ferries ; Condor Ferries ; competitor_of
+Condor Ferries ; Emeraude Lines ; competitor_of
+AGL ; Georgia Natural Gas (GNG) ; undefined
+The company ; the Goergia Public Service Commission (PSC) ; regulated_by
+natural gas ; The company ; product_or_service_of
+Courage ; Wells and Youngs ; acquired_by
+Courage ; Wells and Young's ; brand_of
+Courage Best ; Wells and Young's ; brand_of
+Courage Directors ; Wells and Young's ; brand_of
+OrthoCor ; The U.S. Food and Drug Administration (FDA) ; regulated_by
+analgesics ; The company ; product_or_service_of
+joint replacement surgery ; The company ; product_or_service_of
+Active System ; The company ; product_or_service_of
+EGM Green ; Sirius Radio’s ; collaboration
+luxury lounge furniture ; EGM Green ; product_or_service_of
+North Forest Products ; Gunns ; acquired_by
+Gunns ; Neville Smith Forest Products ; competitor_of
+Gunns ; SmartFiber ; competitor_of
+SmartFiber ; Neville Smith Forest Products ; subsidiary_of
+Gunns ; the Australian Securities Exchange ; traded_on
+AMA ; AAMC ; collaboration
+the American Medical Association ; AAMC ; collaboration
+AMA ; The Association of American Medical Colleges ; collaboration
+the American Medical Association ; The Association of American Medical Colleges ; collaboration
+The Association of American Medical Colleges (AAMC) ; the Liaison Committee on Medical Education (LCME) ; undefined
+the American Medical Association (AMA) ; the Liaison Committee on Medical Education (LCME) ; undefined
+Medical College Admission Test ; AAMC ; product_or_service_of
+Medical College Admission Test ; Association of American Medical Colleges ; product_or_service_of
+America Medical College Application Service ; AAMC ; product_or_service_of
+America Medical College Application Service ; Association of American Medical Colleges ; product_or_service_of
+Electronic Residency Application Service ; AAMC ; product_or_service_of
+Electronic Residency Application Service ; Association of American Medical Colleges ; product_or_service_of
+Galati ; the Potato Marketing Corporation of Western Australia ; regulated_by
+Galati ; PMC ; regulated_by
+Montagne Jeunesse ; the Vegetarian Society ; undefined
+Montagne Jeunesse ; the British Union for the Abolition of Vivisection ; undefined
+beauty-product ; Montagne Jeunesse ; product_or_service_of
+toiletry ; Montagne Jeunesse ; product_or_service_of
+beauty-product ; 7th Heaven ; product_or_service_of
+toiletry ;  7th Heaven ; product_or_service_of

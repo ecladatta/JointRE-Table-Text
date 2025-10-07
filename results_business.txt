@@ -8,6 +8,10 @@ Partial matching (relation + 1 entity): {'precision': 0.29562433297758806, 'reca
 
 {'Exact matching': {'precision': 0.16375252185608608, 'recall': 0.315006468305304, 'f1': 0.2154867256637168}, 'Partial matching (head+tail)': {'precision': 0.2609280430396772, 'recall': 0.5019404915912031, 'f1': 0.3433628318584071}, 'Partial matching (relation + 1 entity)': {'precision': 0.37121721587088097, 'recall': 0.7141009055627425, 'f1': 0.4884955752212388}}
 
+########################## Few-shot ################################# 
+{'Exact matching': {'precision': 0.1056338028169014, 'recall': 0.40160642570281124, 'f1': 0.16727069974909395}, 'Partial matching (head+tail)': {'precision': 0.1387323943661972, 'recall': 0.5274431057563588, 'f1': 0.2196821856704767}, 'Partial matching (relation + 1 entity)': {'precision': 0.32429577464788734, 'recall': 1.2329317269076305, 'f1': 0.5135210482297184}}
+Selection deleted
+
 
 
 ########################## Few-shot ################################# DeepSeek
